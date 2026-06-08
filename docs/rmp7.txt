@@ -1,0 +1,728 @@
+2.9
+/ 5
+Overall Quality Based on 37 ratings
+Haim Schweitzer
+Professor in the Computer Science department at The University of Texas at Dallas
+31%
+Would take again
+2.4
+Level of Difficulty
+
+Rate
+Arrow Icon
+Compare
+I'm Professor Schweitzer
+Rating Distribution
+Awesome 5
+
+11
+Great 4
+
+5
+Good 3
+
+3
+OK 2
+
+6
+Awful 1
+
+12
+Similar Professors
+5.00
+Emily Fox
+4.90
+Xinda Wang
+4.70
+Yapeng Tian
+Cheddar News Live Feed
+
+00:17
+/
+02:00
+
+
+
+37 Student Ratings
+All courses
+Quality
+1.0
+Difficulty
+3.0
+CS6364
+May 21st, 2025
+For Credit: Yes
+Attendance: Mandatory
+Textbook: N/A
+Very weird and cryptic grading. Does not curve the final grade, only curves the individual components (exams, quizzes, hws, projects). Unnecessarily complex exam in terms of ease of taking the test. Homeworks are not graded for correctness, you get full points just for attempting them.
+Tough grader
+Lecture heavy
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+
+Quality
+5.0
+Difficulty
+2.0
+CS4365
+Apr 9th, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Textbook: N/A
+Great lecturer with lots of explanation using both examples as well as hand waving. Provides plenty of time for projects and homework. The homework is graded as submitted or not and projects are offered plenty of partial credit if code is not working 100%. The quizzes are just a simple questions based on previous classes.
+Participation matters
+Amazing lectures
+Beware of pop quizzes
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+1.0
+Difficulty
+2.0
+CS6364
+Jul 25th, 2024
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: N/A
+soooo bad like UTD is bad enough but this is embarrassing. In the summer he does one 4-hour lecture every Friday and its laughable how little he covers thats actually useful in this time. He barely covers the surface level stuff for AI even though its a grad-level course. Will not recommend, I only did it to graduate early.
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+
+Quality
+1.0
+Difficulty
+5.0
+CS6364
+Sep 2nd, 2023
+For Credit: Yes
+Attendance: Mandatory
+Grade: C
+Textbook: N/A
+The Professor is highly unethical and unprofessional in his conduct towards the students. He has superficial knowledge of AI. When asked doubts regarding intensive topics like IDA*, MDP, Factor Graphs etc from the textbook he has suggested (Russell and Norvig AI), he is at a loss. Ambiguous grading and ghosts students upon confrontation.
+Tough grader
+Test heavy
+Graded by few things
+Helpful
+Thumbs up
+1
+Thumbs down
+0
+
+Quality
+3.0
+Difficulty
+2.0
+6375
+Jun 13th, 2023
+For Credit: Yes
+Grade: B
+He seems helpful and reasonable but it's difficult to follow along in his class as he gets lost in the minutiae of all the topics. His programming assignments are trivial. I was caught off-guard by his final exam (easy but surprisingly long) and lost my grade, but if you put in the effort, you will learn a lot because of his weekly homeworks.
+Helpful
+Thumbs up
+1
+Thumbs down
+0
+
+
+Quality
+5.0
+Difficulty
+4.0
+CS6375
+May 23rd, 2023
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: N/A
+I took both ML and AI classes under Prof. Schweitzer. Expectations will be set at the beginning of semester and the Prof meets them 100%. If you don't like the criteria/pedagogy you can move to another section. Very helpful during the office hours. Get your doubts clarified. Key to crack the course: Stay attentive in all classes and do assignments.
+Participation matters
+Amazing lectures
+Helpful
+Thumbs up
+1
+Thumbs down
+9
+
+Reviewed: May 27th, 2023
+Quality
+1.0
+Difficulty
+2.0
+CS6364
+May 19th, 2023
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: N/A
+Useless Professor!!! His lectures are boring and syllabus is outdated... He has some perplexed face when we ask him a question. Avoid him for AI
+Participation matters
+Beware of pop quizzes
+Helpful
+Thumbs up
+10
+Thumbs down
+0
+
+
+Quality
+1.0
+Difficulty
+3.0
+CS6375
+May 19th, 2023
+For Credit: Yes
+Attendance: Mandatory
+Grade: B-
+Textbook: N/A
+He is always late to the lectures, at least 15 mins and every week. His block courses are super duper tiring. He acts like a generous grader but nope, he is not. He is a decent prof for ML. I would say avoid if you can. Unfortunately, I could not learn much about this trend subject. :(
+Helpful
+Thumbs up
+8
+Thumbs down
+0
+
+Quality
+2.0
+Difficulty
+4.0
+CS6344
+Jan 29th, 2023
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: N/A
+Lectures are a little boring. Final exam is really lengthy, although getting good grades is not very difficult.
+Helpful
+Thumbs up
+3
+Thumbs down
+3
+
+
+Quality
+3.0
+Difficulty
+3.0
+CS6344
+Dec 21st, 2022
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: N/A
+I had taken CS6364 under Prof. Schweitzer and I rated him 5 earlier. For CS6344 I would give 3 as he himself gets confused in between the lectures and confuses us more. But he is open to discussion both in class and during office hours if you have any doubts. Listen in class, work on homework and projects early, and ask doubts then and there for A.
+Participation matters
+Clear grading criteria
+Test heavy
+Helpful
+Thumbs up
+0
+Thumbs down
+1
+
+Quality
+5.0
+Difficulty
+3.0
+CS6364
+Aug 19th, 2022
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: N/A
+There will be 2 easy quizzes in each class (one from homework and the other from the day's lecture). Homeworks are not graded but marks are given to people who genuinely do an attempt, it's good to solve them as practice for finals. Easy and fun project. I never studied for this course outside the class, just make sure you listen during lectures.
+Amazing lectures
+Lecture heavy
+Test heavy
+Helpful
+Thumbs up
+0
+Thumbs down
+1
+
+
+Quality
+1.0
+Difficulty
+4.0
+CS4365
+May 26th, 2022
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Final exam is 50% and project is 30%.Never gives feedback in time nor does he grade in a timely fashion. Never replies to emails.He waited for the semester to be over to report a fourth of the class for cheating for using pseudocode he provided to us.Not to mention he submitted grades aday late.Would recommend youtake any other professor available.
+Tough grader
+Lots of homework
+Test heavy
+Helpful
+Thumbs up
+1
+Thumbs down
+0
+
+Quality
+2.0
+Difficulty
+3.0
+CS4365
+May 2nd, 2022
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Pros - Homework is easy (graded for completion) - Quizzes are easy, you get 80% even if the answer is wrong, only the best half are graded - Project with small extra credit Cons - AI taught at a shallow level - Prof is inaccessible out of class, doesn't reply to email - Prof has arbitrary rules and can be unreasonable regarding them (rude at times)
+EXTRA CREDIT
+Lots of homework
+Lecture heavy
+Helpful
+Thumbs up
+0
+Thumbs down
+1
+
+
+Quality
+5.0
+Difficulty
+2.0
+6375
+Apr 17th, 2022
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: N/A
+Easy class if you attend the lectures.
+Amazing lectures
+Lots of homework
+Beware of pop quizzes
+Helpful
+Thumbs up
+0
+Thumbs down
+2
+
+Quality
+4.0
+Difficulty
+3.0
+CS6375
+Aug 3rd, 2021
+For Credit: Yes
+Would Take Again: Yes
+Textbook: No
+He will give you extra stuff that never gets asked. These include extra topics and math. The assignments and quizzes are very simple. The final is hard to ace, but very easy to do well on. Overall, a solid professor for both those who want to really learn and those who want a good grade.
+Respected
+Graded by few things
+Test heavy
+Helpful
+Thumbs up
+0
+Thumbs down
+3
+
+
+Quality
+4.0
+Difficulty
+2.0
+CS6364
+Jul 30th, 2021
+For Credit: Yes
+Would Take Again: Yes
+Textbook: No
+I believe his AI class is far easier and less mathematical than his ML class. There is one easyish project, and one final exam. The other assignments are almost free 100s. The final is not exceptionally hard. Overall, the class rigor was a bit light, but the teaching was still solid and the topics covered were good.
+Gives good feedback
+Graded by few things
+Test heavy
+Helpful
+Thumbs up
+0
+Thumbs down
+3
+
+Quality
+1.0
+Difficulty
+5.0
+Computer IconCS6384
+May 14th, 2021
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: No
+Grade: Not sure yet
+Textbook: No
+Online Class: Yes
+I did not understand most of the concepts he taught in class. Also, he distributes HW marks if we just submit it. At the same time, he makes finals so lengthy that even he wont be able to do it in 1.5 hours. I did not learn anything in class. Waste of money.
+Test heavy
+Beware of pop quizzes
+Lecture heavy
+Helpful
+Thumbs up
+4
+Thumbs down
+0
+
+
+Quality
+1.0
+Difficulty
+1.0
+Computer IconCS6384
+Mar 31st, 2021
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: No
+Grade: A+
+Textbook: No
+Online Class: Yes
+Lectures were online due to COVID. Things I liked about the class: - 100 marks for just submission of assignments. Things I did not like about the class: - Bad teaching style. I understood only few of his lectures even after watching the recordings over and over. - Hardly learnt anything useful. - Material covered was not available online anywhere.
+Helpful
+Thumbs up
+3
+Thumbs down
+0
+
+Quality
+1.0
+Difficulty
+4.0
+CS6344
+Jan 21st, 2021
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Grade: F
+Textbook: No
+can't code in python, yet accused many students of plagiarising "boilerplate" code. Doesn't reply to emails. Tough lengthy exams, doesn't take into account student opinion for exams. Very adamant in nature. Didn't learn anything substantial, just some matrix manipulation. This class was an utter waste of time, credits and money. PL DO NOT TAKE
+Lots of homework
+Lecture heavy
+Tough grader
+Helpful
+Thumbs up
+5
+Thumbs down
+0
+
+
+Quality
+1.0
+Difficulty
+1.0
+CS6375
+Jan 10th, 2021
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Textbook: No
+This professor looks kind or helpful to students but actually he is not. His class didnt teach anything, only some matrix or calculation. And his exam questions were time consuming and tedious. If you want to learn sth eagerly, dont take his classes unless you only want a safe grade. He is the worst professor in machine learning or AI at UTD.
+Helpful
+Thumbs up
+5
+Thumbs down
+0
+
+Quality
+4.0
+Difficulty
+2.0
+Computer IconCS6344
+Dec 14th, 2020
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: No
+Online Class: Yes
+I've taken classes with this Prof twice, what I like about him is that he lectures the materials very throughly with lots of examples. I found it very rare that there were any "lost moments" and if you come to the lecture and pay attention, his class should be easy. The only thing is that the given test time with Honorlock was a little short.
+Skip class? You won't pass.
+Beware of pop quizzes
+Amazing lectures
+Helpful
+Thumbs up
+0
+Thumbs down
+5
+
+
+Quality
+4.0
+Difficulty
+3.0
+Computer IconCS6375
+Aug 12th, 2020
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: No
+Online Class: Yes
+He is a solid choice for Machine Learning. He goes over concepts very thoroughly, to give you a good idea of the material, and he provides plenty of examples to help you understand the material further. The projects were alright, though the grading criteria was a bit weird. There was one exam, and as long as you show your work you should be fine.
+Respected
+Lots of homework
+Lecture heavy
+Helpful
+Thumbs up
+0
+Thumbs down
+3
+
+Quality
+2.0
+Difficulty
+5.0
+CS6384
+May 14th, 2019
+Attendance: Not Mandatory
+Would Take Again: No
+Grade: B
+Textbook: No
+Exams are tougher than what he teaches in class! You need to do a PhD in Computer Vision before taking his exams!
+Skip class? You won't pass.
+Test heavy
+Tough grader
+Helpful
+Thumbs up
+4
+Thumbs down
+2
+
+Reviewed: Aug 15th, 2020
+
+Quality
+1.0
+Difficulty
+4.0
+CS6301
+Oct 22nd, 2018
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: No
+Textbook: No
+Taken Data Representation course under him. Didn't understand a single lecture. The class was very vague. Tough exams. Not worth it. Will never recommend anyone to take this class. Learned just computation with matrics nothing else
+LECTURE HEAVY
+Helpful
+Thumbs up
+15
+Thumbs down
+0
+
+Quality
+3.0
+Difficulty
+3.0
+CS6384
+May 11th, 2018
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: No
+Grade: A-
+Textbook: No
+Took computer vision under him. Homework assignments every week which you have to just submit for full credit. Takes a pop up quiz almost every week. Monotonous lectures with no defined syllabus. The class seemed vague and didn't understand the subject even after completing the course. Good with grades though. Take him for good grades .
+Participation matters
+BEWARE OF POP QUIZZES
+ACCESSIBLE OUTSIDE CLASS
+Helpful
+Thumbs up
+5
+Thumbs down
+0
+
+
+Quality
+2.0
+Difficulty
+1.0
+CS6364
+May 24th, 2017
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Grade: A-
+Textbook: No
+Study for 1 hour before exam and you will pass.
+ACCESSIBLE OUTSIDE CLASS
+Helpful
+Thumbs up
+22
+Thumbs down
+5
+
+Quality
+1.5
+Difficulty
+1.0
+CS6375
+Jan 23rd, 2016
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: No
+Take his class to get good grades. Apart from that you don't learn anything useful. I understood machine learning after taking other prof's AI class where machine learning was covered in 4 lectures!
+Helpful
+Thumbs up
+22
+Thumbs down
+3
+
+
+Quality
+4.5
+Difficulty
+1.0
+6375
+Oct 31st, 2014
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Audit/No Grade
+Textbook: No
+Good Professor. Open book exams and its fun to sit in his class.
+Helpful
+Thumbs up
+3
+Thumbs down
+17
+
+Quality
+5.0
+Difficulty
+1.0
+CS4365
+Jun 20th, 2013
+Textbook: No
+He's a good teacher and his class is fun.
+Helpful
+Thumbs up
+1
+Thumbs down
+16
+
+
+Quality
+2.0
+Difficulty
+2.0
+CS6364
+Sep 28th, 2010
+Textbook: No
+He is good with giving grades, but not good with teaching.I dont see how to use those stuff.
+Helpful
+Thumbs up
+18
+Thumbs down
+5
+
+Quality
+4.0
+Difficulty
+1.0
+CS6364
+Jun 3rd, 2010
+Textbook: No
+I took his AI and machine learning course. His class is always easy. Sometimes I think he is too talkative. He would spend a lot of time explaining some simple concept. Exams and projects are easy. Just pay attention, there are always some questions that are really tricky, but just a few points. In general, a piece of cake.
+Helpful
+Thumbs up
+1
+Thumbs down
+1
+
+
+Quality
+5.0
+Difficulty
+1.0
+CS6364
+Oct 17th, 2008
+Textbook: No
+I loved his class. He made me love the subject and i enjoyed his style of exam. Would love to take extra courses under him
+Helpful
+Thumbs up
+3
+Thumbs down
+2
+
+Quality
+1.0
+Difficulty
+2.0
+CS6364
+May 7th, 2008
+Textbook: No
+Not sure what others see in this guy.Concepts in class are discussed with no real idea of how they all relate.Homework solutions are not very detailed, and doesn't give enough time for his tests.And don't let the fact that all his tests are open book fool you, because it doesn't help you out much.Doesn't like questions-gets tripped up on his words.
+Helpful
+Thumbs up
+15
+Thumbs down
+0
+
+
+Quality
+5.0
+Difficulty
+1.0
+CS4391
+Dec 5th, 2006
+Textbook: No
+The class was surprisingly easy, and the course content was very interesting. I loved that there was no textbook. Class notes are sufficient and allowed on exams. I can see how the concepts would be useful in a variety of careers. I would recommend it for an upper division CS elective.
+Helpful
+Thumbs up
+1
+Thumbs down
+2
+
+Quality
+5.0
+Difficulty
+1.0
+AICOMPVISION
+Apr 7th, 2005
+I took 2 classes with Dr. S and an independent study. He's one of the best profs i've ever had. His classes will seem easy and fun, and you sometime don't even realize how much you happened to have learned. Teaches from multiple books/sources. Projects are fun!
+Helpful
+Thumbs up
+3
+Thumbs down
+3
+
+
+Quality
+5.0
+Difficulty
+1.0
+CS6364
+Apr 22nd, 2004
+Very helpful, and fun to talk to as well. He doesn't believe that learning should be difficult. I loved working for him.
+Helpful
+Thumbs up
+1
+Thumbs down
+0
+
+Quality
+4.5
+Difficulty
+1.0
+CS6354
+Apr 8th, 2003
+Knows material well, open-book exams. Friendly.
+Helpful
+Thumbs up
+0
+Thumbs down
+1
+

@@ -1,0 +1,224 @@
+Turn off AI Vision
+
+Skip to main content
+Best Prof for CS 4347- Database Systems? : r/utdallas
+
+
+r/utdallas
+Search in ⁨r/utdallas⁩
+Advertise on Reddit
+
+Open chat
+Create
+Create post
+Open inbox
+2
+
+User Avatar
+Expand user menu
+Skip to NavigationSkip to Right Sidebar
+
+Back
+
+Go to utdallas
+r/utdallas
+•
+6y ago
+fluteofpurple
+
+Best Prof for CS 4347- Database Systems?
+As of now for next semester the options are Michael G Christiansen , Chris Irwin Davis, Ziaullah Khan, and Timothy L Culver. Among these professors who would you recommend or share your experiences based on these professors if you have taken one of them for a class? Or should I possibly wait for next spring for another specific good professor?
+
+
+Upvote
+2
+
+Downvote
+
+4
+Go to comments
+
+
+Share
+u/anthropic-ai avatar
+anthropic-ai
+•
+Promoted
+
+Ideate, plan, build, test, and ship. Claude Code is with you at every stage, from blank file to deployed app.
+Sign Up
+claude.com
+Clickable image which will reveal the video player: Ideate, plan, build, test, and ship. Claude Code is with you at every stage, from blank file to deployed app.
+Collapse video player
+
+0:00 / 0:00
+
+
+
+
+Join the conversation
+Sort by:
+
+Old (Default)
+
+Search Comments
+Expand comment search
+Comments Section
+u/TwixTimeMS avatar
+TwixTimeMS
+•
+6y ago
+I'm curious about this too! Rmp didn't give me too much guidance. I really want to actually learn the material because I care about this class long term, so I guess I'll check back on this later.
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+WhakAF
+•
+6y ago
+4347 is one of those classes that generally isn't taught very well in the classroom. It won't really matter who you take, every professor you listed is terrible (with the exception of Culver, who I've never taken and can't speak on) and you're going to learn most of what you need to know through your projects, which don't have much to do with your professor, most of them give the same projects.
+
+I will say Khan curves quite a bit, and he is also my least favorite professor you listed. Davis curves almost as much too. However, do not expect good exams or exam prep from either of those professors.
+
+
+Upvote
+5
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/WearIgnoranceisBliss avatar
+WearIgnoranceisBliss
+•
+6y ago
+Alumnus
+I have taken Christiansen for CS4347, Davis for CS4337, and Khan for CS3345. I do not have any experience with Culver. With that said I will go over some thoughts on Christiansen, Davis, and Khan.
+
+Christiansen: He is a professional Java developer turned Academic. He has a wealth of information regarding professional software development, and seems to know the class material well. His lectures are dry and he reads from the slides, sit near the front so you can read what he writes on the board.
+
+He has two tests, two team-based programming projects, and about seven un-timed, online homework assignments that were either short answer or writing SQL queries. The two tests were taken in class and were easy to study for and ace if you use his study guide. The two programming projects were the best I've seen at UTD in terms of being professional software development quality. The home-works were just online elearning assignments with questions related directly to the slides or what was learned in class.
+
+Christiansen is a bit of a rogue in the fact that he hasn't been in academia his whole career. This comes with its own pros and cons. Pros: He is pretty easy going, what he teaches is extremely practical rather than theoretical, and he seemed to treat people as work associates rather than students. Cons: He is very dry and monotone when it comes to teaching the class, he seems to be teaching less theoretical material than other professors, and can probably come off as a little abrasive to students who don't have much real world work experience.
+
+To sum it up if you want a practical understanding of SQL and MySQL and how to incorporate these with Java without a lot of theory then Christiansen is your guy. If you're looking for a more theoretical understanding of the class then you might want to look somewhere else.
+
+Davis: He's an extremely knowledgeable yet fairly grounded professor. His lectures were interesting and he was one of the few UTD professors whose class I looked forward to attending.
+
+He had two tests that were worth a significant portion of the grade, two programming assignments in Racket and Prolog, a few un-timed, online homework assignments that were not worth much, and no group work. The two tests were taken in the testing center and were challenging to me, I would definitely make sure you understand everything in the slides before attempting them. The two programming assignments were well written and not extremely long. The home-works were just online elearning assignments with questions related directly to the slides.
+
+Davis is lacking when it comes to getting grades back on time or answering emails. I think we got our midterm grade back a week or two before class ended, and the programming assignment grades back at the end of the semester. There was a generous curve at the end of the semester that took me up half a letter grade.
+
+Khan: An extremely well-spoken professor who engages well with the class. His lectures were sub-par due to the fact that he was not familiar with the material and seemed to 'wing it' as we went through lectures.
+
+He had three tests, three or four projects, about six home-works, surprise quizzes, and no group work. The three tests were difficult to study for and he seemed to pull questions from different test banks rather than write the questions himself, this led to confusion or him not being able to work through the problems himself when questioned about the correct answer. The projects were of average difficulty, he let us use C++, Java, or C# to complete them, and when turning them in you had to meet up with a TA to demo the project. The home-works were again taken from another school or quiz bank and rarely seemed to align with what was taught in class. The surprise quizzes seemed to take place when he thought no one was paying attention or when attendance was low.
+
+Khan seems to have a loyal cult following, and most people like him or hate him. He will keep you on the edge of your seat throughout the semester due to the uncertainty of what is going on in class both knowledge-wise and grade-wise. Make sure he knows your name and face during the semester because he seems to curve heavily based on who participated in class or visited him during office hours.
+
+[deleted]
+•
+6y ago
+Taking Christiansen right now. Really good professor, teaches the class perfect.
+
+Ziaullah Khan was a good prof when I took him for algorithms. IF you are a person who learns mainly through class participation (you're not on Reddit/discord during class) then I would def go with Khan.
+
+I would go with those two.
+
+Community Info Section
+r/utdallas
+Joined
+The UT Dallas Subreddit
+Welcome to the student-run (unofficial) subreddit for The University of Texas at Dallas! Post anything and everything here about UT Dallas. Faculty, staff, students, and alumni are welcome.
+
+Show more
+Created Sep 26, 2010
+Public
+22K
+Comets
+555
+Whooshing
+User flair
+u/Chance-Eye-8000 avatar
+Chance-Eye-8000
+Community Bookmarks
+
+UT Dallas
+
+Student Resources
+
+Club Discords
+
+Post Collections
+GitHub
+Useful UTD Links
+UTDallas GitHub
+UTDallas GitHub
+Academic Calendar
+Academic Calendar
+Comet Calendar (Events)
+Comet Calendar (Events)
+eLearning Enhancement
+eLearning Enhancement
+Campus Room Availability
+Campus Room Availability
+UTD News (The Mercury)
+UTD News (The Mercury)
+Library Room Reservation
+Library Room Reservation
+Course Planner
+Course Planner
+r/utdallas Rules
+1
+Whatever iLikeComputers says, goes.
+2
+Posts must relate to UTD.
+3
+Be civil, and act in good faith.
+4
+Don't post low-quality or redundant content.
+5
+Do some research before asking a question.
+6
+Don't troll people or share spam.
+7
+Don't share NSFW content.
+8
+Do not promote scholastic dishonesty, fraud, or illegal activities.
+9
+This is not a marketplace.
+Moderators
+Message Mods
+u/iLikeComputers
+ 
+u/AutoModerator avatar
+u/AutoModerator
+u/anonnoodle88 avatar
+u/anonnoodle88
+u/5yrup
+ 
+Alumnus
+u/7saturdaysaweek
+u/yellowelbow
+View all moderators
+Reddit Rules
+Privacy Policy
+User Agreement
+Your Privacy Choices
+Accessibility
+Reddit, Inc. © 2026. All rights reserved.
+
+Collapse Navigation
+
